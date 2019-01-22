@@ -2,6 +2,11 @@
 
 Main text: [domain-theoretic foundations of functional programming](https://pdfs.semanticscholar.org/82fd/128721017912939cc859623e550d87561f0a.pdf).
 
+Additional resources
+- [*Semantics of programming languages*](https://mitpress.mit.edu/books/semantics-programming-languages) by Carl Gunter.
+- *Topology* by M. B. Smyth (Smyth, M. B. "Topology, Handbook of logic in
+  computer science (vol. 1): background: mathematical structures." (1993)).
+
 ## Study plan (tentative)
 
 | Week       | Content                         |
