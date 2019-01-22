@@ -4,11 +4,11 @@ Main text: [domain-theoretic foundations of functional programming](https://pdfs
 
 ## Study plan (tentative)
 
-------------------------------------------------
-| Week 1     | Chapters 1, 2, 3                |
-| Week 2     | Chapters 4, 5                   |
-| Week 3     | Chapters 6, 7, 8                |
-| Week 4     | Chapters 9, 10                  |
-| Week 5     | Chapters 11, 12                 |
-| Weeks 6, 7 | Chapter 16 and its dependencies |
-------------------------------------------------
+| Week       | Content                         |
+|------------|---------------------------------|
+| 1          | Chapters 1, 2, 3                |
+| 2          | Chapters 4, 5                   |
+| 3          | Chapters 6, 7, 8                |
+| 4          | Chapters 9, 10                  |
+| 5          | Chapters 11, 12                 |
+| 6, 7       | Chapter 16 and its dependencies |
