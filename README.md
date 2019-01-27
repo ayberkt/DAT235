@@ -17,3 +17,7 @@ Additional resources
 | 4          | Chapters 9, 10                  |
 | 5          | Chapters 11, 12                 |
 | 6, 7       | Chapter 16 and its dependencies |
+
+## Previous work
+
+- [Some domain theory and denotational semantics in Coq](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/domains.pdf).
