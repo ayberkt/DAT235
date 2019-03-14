@@ -21,3 +21,7 @@ Additional resources
 ## Previous work
 
 - [Some domain theory and denotational semantics in Coq](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/domains.pdf).
+
+## Other stuff
+
+- [Getting started with topology in Coq](https://gist.github.com/andrejbauer/d31e9666d5f950dd8ccd).
